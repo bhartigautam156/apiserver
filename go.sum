@@ -1,7 +1,7 @@
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
-github.com/bhartigautam156/wrangler/v3 v3.0.0-20251229122518-17d8c43b27b8 h1:3basvP5GEAOIT/iX/VTNT9x8f1B3aT/CnqjquHnsd7E=
-github.com/bhartigautam156/wrangler/v3 v3.0.0-20251229122518-17d8c43b27b8/go.mod h1:UywN9i54VZcAH9/BIxpUDnOZCiKapd95kJKcEFUcrAY=
+github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8 h1:ZK8BVzgiGJL3yrS2WBQ7E42KXJfYF2nXwd36z11+qLw=
+github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8/go.mod h1:UywN9i54VZcAH9/BIxpUDnOZCiKapd95kJKcEFUcrAY=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
 github.com/blang/semver/v4 v4.0.0/go.mod h1:IbckMUScFkM3pff0VJDNKRiT6TG/YpiHIM2yvyW5YoQ=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=

@@ -2,7 +2,7 @@ module github.com/rancher/apiserver
 
 go 1.25.0
 
-replace github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.0.0-20251229122518-17d8c43b27b8
+replace github.com/rancher/wrangler/v3 => github.com/bhartigautam156/wrangler/v3 v3.3.1-0.20251229122518-17d8c43b27b8
 
 require (
 	github.com/ghodss/yaml v1.0.0
